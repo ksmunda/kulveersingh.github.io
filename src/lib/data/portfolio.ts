@@ -66,9 +66,9 @@ export interface Education {
 export const personalInfo = {
   name: "Kulveer Singh",
   title: "Technical Project Manager & Senior Full Stack Developer",
-  company: "Broadcast Technologies",
+  company: "Senior Full Stack Developer",
   tagline: "Senior Software Developer | Senior Full Stack Developer | Laravel | PHP | MySQL | Docker | REST APIs",
-  introduction: "Results-driven Technical Project Manager and Senior Full Stack Developer with 15+ years of experience designing, developing, deploying, and maintaining scalable web applications, enterprise software, ERP/CRM systems, and SaaS products. Currently leading cross-functional teams at Broadcast Technologies while remaining actively involved in software architecture and backend engineering.",
+  introduction: "Results-driven Technical Project Manager and Senior Full Stack Developer with 15+ years of experience designing, developing, deploying, and maintaining scalable web applications, enterprise software, ERP/CRM systems, and SaaS products. Currently leading cross-functional teams as a Senior Full Stack Developer while remaining actively involved in software architecture and backend engineering.",
   email: "ksmunda@gmail.com",
   github: "https://github.com/ksmunda",
   linkedin: "https://www.linkedin.com/in/kulveer-singh/",
@@ -133,7 +133,7 @@ export const skillCategories: SkillCategory[] = [
 
 export const experiences: Experience[] = [
   {
-    company: "Broadcast Technologies Pvt. Ltd.",
+    company: "Senior Full Stack Developer",
     role: "Technical Project Manager",
     duration: "January 2026 - Present",
     description: "Lead cross-functional software development teams for enterprise web applications, managing project planning, sprint execution, resource allocation, and timelines.",
@@ -145,10 +145,10 @@ export const experiences: Experience[] = [
       "Worked closely with clients, business stakeholders, QA engineers, and UI/UX teams to align product specifications."
     ],
     techStack: ["Laravel", "PHP", "MySQL", "Docker", "REST APIs", "Git", "Agile/Scrum"],
-    logoText: "BT"
+    logoText: "FS"
   },
   {
-    company: "Broadcast Technologies Pvt. Ltd.",
+    company: "Senior Full Stack Developer",
     role: "Project Manager",
     duration: "October 2025 - January 2026",
     description: "Managed multiple software development projects from initiation to deployment, coordinating engineering resources and stakeholder alignments.",
@@ -158,10 +158,10 @@ export const experiences: Experience[] = [
       "Coordinated communications between development teams, clients, and business stakeholders."
     ],
     techStack: ["Laravel", "PHP", "MySQL", "Docker", "Project Management", "Agile"],
-    logoText: "BT"
+    logoText: "FS"
   },
   {
-    company: "Broadcast Technologies Pvt. Ltd.",
+    company: "Senior Full Stack Developer",
     role: "Senior Software Developer",
     duration: "February 2025 - October 2025",
     description: "Designed and developed enterprise applications using Laravel, PHP, CodeIgniter, and WordPress while optimizing databases and backend performance.",
@@ -171,7 +171,7 @@ export const experiences: Experience[] = [
       "Utilized Docker for local development and deployment workflows, and collaborated with QA teams throughout the SDLC."
     ],
     techStack: ["Laravel", "PHP", "CodeIgniter", "WordPress", "React.js", "MySQL", "Docker", "REST APIs"],
-    logoText: "BT"
+    logoText: "FS"
   },
   {
     company: "NUVRO Technologies",
